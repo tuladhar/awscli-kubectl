@@ -1,5 +1,8 @@
 #!/bin/sh
 
+echo "-> Installing bash..."
+apk --no-cache add bash
+
 echo "-> Installing curl..."
 apk --no-cache add curl
 
