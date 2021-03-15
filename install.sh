@@ -15,4 +15,4 @@ echo "-> Installing awscli..."
 pip install awscli
 
 echo "-> Installing docker client..."
-apk --no-cache docker-cli
+apk --no-cache add docker-cli
