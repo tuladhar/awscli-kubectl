@@ -13,3 +13,6 @@ mv ./kubectl /usr/local/bin/kubectl
 
 echo "-> Installing awscli..."
 pip install awscli
+
+echo "-> Installing docker client..."
+apk --no-cache docker-cli
