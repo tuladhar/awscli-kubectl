@@ -3,3 +3,8 @@ Light-weight Docker image with AWS command-line (awscli), Kubernetes client (kub
 
 ## Use cases
 Base image for running Kubernetes ECR credential cron job.
+
+## Docker Image
+```
+docker pull ptuladhar/awscli-kubectl
+```
